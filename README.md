@@ -3,5 +3,5 @@ Aplicacion del clima - Curso NodeJs
 Ejecutar ```npm install``` para las librerias
 
 
-Ejemplo 
+Ejemplo:  
 node app -d "Managua, Nicaragua"
